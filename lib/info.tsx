@@ -1,4 +1,7 @@
+import me from '@/app/avatar.jpg';
+
 export const name = 'Вадим Белинович';
+export const avatar = me;
 export const about = () => {
 	return (
 		<>
